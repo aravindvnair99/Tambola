@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/kashish-jain/tambola#readme",
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "http": "0.0.1-security",
     "socket.io": "^2.5.0"
   },
