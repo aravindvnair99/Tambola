@@ -20,9 +20,9 @@
   },
   "homepage": "https://github.com/kashish-jain/tambola#readme",
   "dependencies": {
-    "express": "^4.22.1",
+    "express": "^5.2.1",
     "http": "0.0.1-security",
-    "socket.io": "^2.5.1"
+    "socket.io": "^4.8.3"
   },
   "devDependencies": {
     "@types/socket.io-client": "^1.4.36",
